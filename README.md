@@ -35,3 +35,18 @@ In addition to the above specifications, the classes should provide the followin
     3. balance (if applicable), 
     4. list of each activity they have signed up for, including the destination the at which the activity is taking place and the price the passenger paid for the activity.
 4. Print the details of all the activities that still have spaces available, including how many spaces are available.
+
+
+
+
+# High Level Diagram
+
+![Travel Agency HLD](https://github.com/mahima2112/Travel-Agency/assets/34764608/9f7cee09-ef71-4aa4-8238-1b3428c11352)
+
+
+
+# Low Level Diagram
+
+
+![Travel agency LLD](https://github.com/mahima2112/Travel-Agency/assets/34764608/33580f3a-b9df-4675-9c0e-bc3f3ef07d8a)
+
